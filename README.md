@@ -1,4 +1,6 @@
 raspberry-gadgets
 =================
 
-Scripts in Raspberry(Raspbian), supply for multiple hardware. 
+Scripts in Raspberry Pi(Raspbian), supply for multiple hardwares. 
+
+    pip install rpi.gpio
